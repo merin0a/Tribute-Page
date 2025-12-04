@@ -29,9 +29,15 @@ body {
   
   main {
     max-width: 900px;
-    margin: 40px;
+    margin: 40px auto;
     padding: 0 20px;
   }
+
+  main p {
+  max-width: 900px;
+  margin: 0 auto;  
+  text-align: center; 
+}
   
   .tribute{
     background-color: #fff;
