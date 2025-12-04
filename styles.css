@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #1a1a1a;
+    background: linear-gradient(135deg, #5DADE2, #e9eded);
     color: #eee;
   }
   
@@ -11,6 +11,7 @@ body {
     font-size: 1.2em;
     margin: 0;
     text-align: center;
+    padding: 20px;
   }
   
   header p{
@@ -34,10 +35,11 @@ body {
   
   .tribute{
     background-color: #fff;
+    color: 000;
     padding: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(228, 225, 225, 0.3);
   }
   
   .tribute p{
@@ -46,7 +48,7 @@ body {
   }
   
   .achivements {
-    background-color: #1a1a1a;
+    background-color: #7fb6c1;
     padding: 20px;
     border-radius: 10px;
   }
