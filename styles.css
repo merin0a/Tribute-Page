@@ -44,13 +44,16 @@ body {
   
   .tribute p{
     font-size: 1.1em;
-    text-align: justify;
+    text-align: center;
   }
   
   .achivements {
     background-color: #7fb6c1;
     padding: 20px;
     border-radius: 10px;
+    max-width: 600px; 
+    margin: 0 auto; 
+    text-align: left;
   }
   
   .achivements h3 {
